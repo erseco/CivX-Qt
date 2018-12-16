@@ -23,8 +23,8 @@ addons:
     - libdb++-dev
     - libminiupnpc-dev
 before_install:
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew update                      ; fi
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install boost db48 miniupnpc; fi
+  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew update                             ; fi
+  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install boost berkeley-db miniupnpc; fi
     
 script:
   - qmake
