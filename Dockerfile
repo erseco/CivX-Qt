@@ -31,14 +31,11 @@ RUN apt-get update && apt-get install -y \
         pwgen \
       && rm -rf /var/lib/apt/lists/*
 
-RUN mkdir -p /root/.rutanio/ && \
-    echo "rpcuser=rutaniorpc" > /root/.rutanio/rutanio.conf && \
-    echo "rpcpassword=$(pwgen -s 32 1)" >> /root/.rutanio/rutanio.conf
+RUN touch client.conf && \
+    echo "upnp=1" >> client.conf && \
+    echo "rpcuser=rutaniorpc" >> client.conf && \
+    echo "rpcpassword=$(pwgen -s 32 1)" >> client.conf && \
+    echo "datadir=/app/data" >> client.conf
 
-
-EXPOSE 6781
-
-ENTRYPOINT ["exosd", "-upnp"]
-
-CMD ["exosd", "getinfo"]
+ENTRYPOINT ["/usr/bin/rutaniod", "-conf=/app/client.conf"]
 
