@@ -1,6 +1,6 @@
 [Protocol]
-exec=exos-qt '%u'
-protocol=exos
+exec=rutanio-qt '%u'
+protocol=rutanio
 input=none
 output=none
 helper=true

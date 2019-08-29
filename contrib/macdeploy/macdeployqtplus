@@ -507,6 +507,7 @@ if len(config.fancy) == 1:
     try:
         assert not fancy.has_key("window_bounds") or (isinstance(fancy["window_bounds"], list) and len(fancy["window_bounds"]) == 4)
         assert not fancy.has_key("background_picture") or isinstance(fancy["background_picture"], str)
+        assert not fancy.has_key("volume_icon") or isinstance(fancy["volume_icon"], str)
         assert not fancy.has_key("icon_size") or isinstance(fancy["icon_size"], int)
         assert not fancy.has_key("applications_symlink") or isinstance(fancy["applications_symlink"], bool)
         if fancy.has_key("items_position"):
@@ -530,6 +531,19 @@ if len(config.fancy) == 1:
                 sys.exit(1)
             else:
                 fancy["background_picture"] = bp
+
+    if fancy.has_key("volume_icon"):
+        vi = fancy["volume_icon"]
+        if verbose >= 3:
+            print "Fancy: Resolving volume icon \"%s\"..." % vi
+        if not os.path.exists(vi):
+            vi = os.path.join(os.path.dirname(p), vi)
+            if not os.path.exists(vi):
+                if verbose >= 1:
+                    sys.stderr.write("Error: Could not find volume icon at \"%s\" or \"%s\"\n" % (fancy["volume_icon"], vi))
+                sys.exit(1)
+            else:
+                fancy["volume_icon"] = vi
 else:
     fancy = None
 
@@ -712,6 +726,14 @@ if config.dmg is not None:
         else:
             bg_path = None
         
+        if fancy.has_key("volume_icon"):
+            icon_path = os.path.join(disk_root, ".VolumeIcon.icns")
+            if verbose >= 3:
+                print fancy["volume_icon"], "->", icon_path
+            shutil.copy2(fancy["volume_icon"], icon_path)
+        else:
+            icon_path = None
+
         if fancy.get("applications_symlink", False):
             os.symlink("/Applications", os.path.join(disk_root, "Applications"))
         
@@ -736,6 +758,9 @@ if config.dmg is not None:
         disk.close()
         if bg_path is not None:
             subprocess.call(["SetFile", "-a", "V", bg_path])
+        if icon_path is not None:
+            subprocess.call(["SetFile", "-c", "icnC", icon_path])
+            subprocess.call(["SetFile", "-a", "C", disk_root])
         disk.update(registering_applications=False)
         sleep(2)
         disk.eject()

@@ -3,27 +3,27 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>exos.icns</string>
+	<string>rutanio.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>EXOS-Qt</string>
+	<string>Rutanio-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>EXOS-Qt</string>
+	<string>Rutanio-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.exos.EXOS-Qt</string>
+	<string>io.rutan.Rutanio-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.exos.EXOS</string>
+            <string>io.rutan.RutanioPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>exos</string>
+              <string>rutanio</string>
             </array>
           </dict>
         </array>

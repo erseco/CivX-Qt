@@ -1,9 +1,9 @@
-Building EXOS
+Building Rutanio
 
-See doc/readme-qt.rst for instructions on building EXOS QT,
+See doc/readme-qt.rst for instructions on building Rutanio QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of EXOS.
+implementation of Rutanio.
 
-See doc/build-*.txt for instructions on building exosd,
+See doc/build-*.txt for instructions on building rutaniod,
 the intended-for-services, no-graphical-interface, reference
-implementation of EXOS.
+implementation of Rutanio.

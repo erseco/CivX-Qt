@@ -82,7 +82,9 @@ static void InitMessage(const std::string &message)
 {
     if(splashref)
     {
-        splashref->showMessage(QString::fromStdString(message+"\n\n\n\n\n\n"), Qt::AlignBottom|Qt::AlignHCenter, QColor(81,34,210));
+        QFont splashFont("Arial", 10, QFont::Bold );        
+        splashref->setFont(splashFont);
+        splashref->showMessage(QString::fromStdString(message+"\n\n\n\n\n\n"), Qt::AlignBottom|Qt::AlignHCenter, QColor(247,239,249));
         QApplication::instance()->processEvents();
     }
     LogPrintf("init message: %s\n", message);
@@ -101,7 +103,7 @@ static std::string Translate(const char* psz)
 static void handleRunawayException(std::exception *e)
 {
     PrintExceptionContinue(e, "Runaway exception");
-    QMessageBox::critical(0, "Runaway exception", BitcoinGUI::tr("A fatal error occurred. EXOS can no longer continue safely and will quit.") + QString("\n\n") + QString::fromStdString(strMiscWarning));
+    QMessageBox::critical(0, "Runaway exception", BitcoinGUI::tr("A fatal error occurred. Rutanio can no longer continue safely and will quit.") + QString("\n\n") + QString::fromStdString(strMiscWarning));
     exit(1);
 }
 
@@ -160,7 +162,7 @@ int main(int argc, char *argv[])
     {
         // This message can not be translated, as translation is not initialized yet
         // (which not yet possible because lang=XX can be overridden in bitcoin.conf in the data directory)
-        QMessageBox::critical(0, "EXOS",
+        QMessageBox::critical(0, "Rutanio",
                               QString("Error: Specified data directory \"%1\" does not exist.").arg(QString::fromStdString(mapArgs["-datadir"])));
         return 1;
     }
@@ -168,12 +170,12 @@ int main(int argc, char *argv[])
 
     // Application identification (must be set before OptionsModel is initialized,
     // as it is used to locate QSettings)
-    app.setOrganizationName("EXOS");
+    app.setOrganizationName("Rutanio");
     //XXX app.setOrganizationDomain("");
     if(GetBoolArg("-testnet", false)) // Separate UI settings for testnet
-        app.setApplicationName("EXOS-Qt-testnet");
+        app.setApplicationName("Rutanio-Qt-testnet");
     else
-        app.setApplicationName("EXOS-Qt");
+        app.setApplicationName("Rutanio-Qt");
 
     // ... then GUI settings:
     OptionsModel optionsModel;

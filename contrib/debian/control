@@ -1,4 +1,4 @@
-Source: exos
+Source: rutanio
 Section: utils
 Priority: optional
 Maintainer: Jonas Smedegaard <dr@jones.dk>
@@ -19,15 +19,15 @@ Build-Depends: debhelper,
  libqt4-dev,
  libqrencode-dev
 Standards-Version: 3.9.2
-Homepage: http://token.oexo.cloud
-Vcs-Git: git://github.com/exoeconomy/EXOS-Qt.git
-Vcs-Browser: https://github.com/exoeconomy/EXOS-Qt.git
+Homepage: https://www.rutan.io
+Vcs-Git: git://github.com/rutanio/rutanio-qt.git
+Vcs-Browser: https://github.com/rutanio/rutanio-qt.git
 
-Package: exosd
+Package: rutaniod
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
- EXOS is a free open source peer-to-peer electronic cash system that
+ Rutanio is a free open source peer-to-peer electronic cash system that
  is completely decentralized, without the need for a central server or
  trusted parties.  Users hold the crypto keys to their own money and
  transact directly with each other, with the help of a P2P network to
@@ -38,14 +38,14 @@ Description: peer-to-peer network based digital currency - daemon
  Full transaction history is stored locally at each client.  This
  requires 2+ GB of space, slowly growing.
  .
- This package provides exosd, a combined daemon and CLI tool to
+ This package provides rutaniod, a combined daemon and CLI tool to
  interact with the daemon.
 
-Package: exos-qt
+Package: rutanio-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
- EXOS is a free open source peer-to-peer electronic cash system that
+ Rutanio is a free open source peer-to-peer electronic cash system that
  is completely decentralized, without the need for a central server or
  trusted parties.  Users hold the crypto keys to their own money and
  transact directly with each other, with the help of a P2P network to
@@ -56,4 +56,4 @@ Description: peer-to-peer network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  This
  requires 2+ GB of space, slowly growing.
  .
- This package provides EXOS-Qt, a GUI for EXOS based on Qt.
+ This package provides Rutanio-Qt, a GUI for Rutanio based on Qt.

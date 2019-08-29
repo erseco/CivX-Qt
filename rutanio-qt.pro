@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = exos-qt
-VERSION = 2.0.0.1
+TARGET = Rutanio-qt
+VERSION = 1.0.0.4
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += ENABLE_WALLET
@@ -429,8 +429,8 @@ macx:HEADERS += src/qt/macdockiconhandler.h src/qt/macnotificationhandler.h
 macx:OBJECTIVE_SOURCES += src/qt/macdockiconhandler.mm src/qt/macnotificationhandler.mm
 macx:LIBS += -framework Foundation -framework ApplicationServices -framework AppKit
 macx:DEFINES += MAC_OSX MSG_NOSIGNAL=0
-macx:ICON = src/qt/res/icons/exos.icns
-macx:TARGET = "EXOS-Qt"
+macx:ICON = src/qt/res/icons/rutanio.icns
+macx:TARGET = "Rutanio-Qt"
 macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread
 macx:QMAKE_CXXFLAGS_THREAD += -pthread

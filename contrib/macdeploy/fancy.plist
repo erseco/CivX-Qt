@@ -6,11 +6,13 @@
 	<array>
 		<integer>300</integer>
 		<integer>300</integer>
-		<integer>800</integer>
-		<integer>640</integer>
+		<integer>912</integer>
+		<integer>698</integer>
 	</array>
 	<key>background_picture</key>
 	<string>background.png</string>
+	<key>volume_icon</key>
+	<string>rutanio.icns</string>
 	<key>icon_size</key>
 	<integer>96</integer>
 	<key>applications_symlink</key>
@@ -19,13 +21,13 @@
 	<dict>
 		<key>Applications</key>
 		<array>
-			<integer>385</integer>
-			<integer>180</integer>
+			<integer>480</integer>
+			<integer>215</integer>
 		</array>
-		<key>EXOS-Qt.app</key>
+		<key>Rutanio-qt.app</key>
 		<array>
-			<integer>108</integer>
-			<integer>180</integer>
+			<integer>135</integer>
+			<integer>215</integer>
 		</array>
 	</dict>
 </dict>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About EXOS</source>
-        <translation>Sobre EXOS</translation>
+        <source>About Rutanio</source>
+        <translation>Sobre Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;EXOS&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;EXOS&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Rutanio&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Rutanio&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2018-2019 The OpenExO and ExO Economy developers</source>
+Copyright © 2019 The Rutanio developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2018-2019 The OpenExO and ExO Economy developers</translation>
+Copyright © 2019 The Rutanio developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your EXOS addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de EXOS per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Rutanio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Rutanio per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a EXOS address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça EXOS</translation>
+        <source>Sign a message to prove you own a Rutanio address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Rutanio</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified EXOS address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça EXOS especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Rutanio address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Rutanio especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>EXOS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>EXOS tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>Rutanio tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about EXOS</source>
-        <translation>Mostra informació sobre EXOS</translation>
+        <source>Show information about Rutanio</source>
+        <translation>Mostra informació sobre Rutanio</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send tokens to a EXOS address</source>
-        <translation>Enviar monedes a una adreça EXOS</translation>
+        <source>Send tokens to a Rutanio address</source>
+        <translation>Enviar monedes a una adreça Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for EXOS</source>
-        <translation>Modificar les opcions de configuració per a EXOS</translation>
+        <source>Modify configuration options for Rutanio</source>
+        <translation>Modificar les opcions de configuració per a Rutanio</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>EXOS</source>
-        <translation>EXOS</translation>
+        <source>Rutanio</source>
+        <translation>Rutanio</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About EXOS</source>
-        <translation>&amp;Sobre EXOS</translation>
+        <source>&amp;About Rutanio</source>
+        <translation>&amp;Sobre Rutanio</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>EXOS client</source>
-        <translation>Client EXOS</translation>
+        <source>Rutanio client</source>
+        <translation>Client Rutanio</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to EXOS network</source>
-        <translation><numerusform>%n conexió activa a la xarxa EXOS</numerusform><numerusform>%n conexions actives a la xarxa EXOS</numerusform></translation>
+        <source>%n active connection(s) to Rutanio network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Rutanio</numerusform><numerusform>%n conexions actives a la xarxa Rutanio</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -596,8 +596,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid EXOS address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça EXOS no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Rutanio address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Rutanio no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. EXOS can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. EXOS ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Rutanio can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Rutanio ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid EXOS address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça EXOS vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Rutanio address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Rutanio vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>EXOS-Qt</source>
-        <translation>EXOS-Qt</translation>
+        <source>Rutanio-Qt</source>
+        <translation>Rutanio-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start EXOS after logging in to the system.</source>
-        <translation>Inicia automàticament EXOS després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Rutanio after logging in to the system.</source>
+        <translation>Inicia automàticament Rutanio després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start EXOS on system login</source>
-        <translation>&amp;Iniciar EXOS amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Rutanio on system login</source>
+        <translation>&amp;Iniciar Rutanio amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1160,8 +1160,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the EXOS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client EXOS en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Rutanio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Rutanio en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,7 +1190,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the EXOS network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Rutanio network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1235,8 +1235,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting EXOS.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar EXOS.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Rutanio.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Rutanio.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1302,8 +1302,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting EXOS.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar EXOS.</translation>
+        <source>This setting will take effect after restarting Rutanio.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Rutanio.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1321,8 +1321,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EXOS network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa EXOS després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rutanio network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Rutanio després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1395,7 +1395,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start exos: click-to-pay handler</source>
+        <source>Cannot start rutanio: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1563,8 +1563,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the EXOS-Qt help message to get a list with possible EXOS command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de EXOS-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres EXOS.</translation>
+        <source>Show the Rutanio-Qt help message to get a list with possible Rutanio command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Rutanio-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Rutanio.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>EXOS - Debug window</source>
-        <translation>EXOS - Finestra Depuració</translation>
+        <source>Rutanio - Debug window</source>
+        <translation>Rutanio - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>EXOS Core</source>
-        <translation>Nucli EXOS</translation>
+        <source>Rutanio Core</source>
+        <translation>Nucli Rutanio</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the EXOS debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració EXOS des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Rutanio debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Rutanio des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the EXOS RPC console.</source>
-        <translation>Benvingut a la consola RPC de EXOS.</translation>
+        <source>Welcome to the Rutanio RPC console.</source>
+        <translation>Benvingut a la consola RPC de Rutanio.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1789,8 +1789,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Introdueix una adreça EXOS (p.ex. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Introdueix una adreça Rutanio (p.ex. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1889,8 +1889,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid EXOS address</source>
-        <translation>ADVERTÈNCIA: Direcció EXOS invàlida</translation>
+        <source>WARNING: Invalid Rutanio address</source>
+        <translation>ADVERTÈNCIA: Direcció Rutanio invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1922,7 +1922,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
+        <source>The address to send the payment to (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1963,8 +1963,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Introdueix una adreça EXOS (p.ex. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Introdueix una adreça Rutanio (p.ex. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
 </context>
 <context>
@@ -1987,8 +1987,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>The address to sign the message with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>L&apos;adreça per a signar el missatge (per exemple RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2024,8 +2024,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this EXOS address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça EXOS</translation>
+        <source>Sign the message to prove you own this Rutanio address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Rutanio</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2051,13 +2051,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>The address the message was signed with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified EXOS address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça EXOS especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Rutanio address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Rutanio especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2067,8 +2067,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Introdueix una adreça EXOS (p.ex. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Introdueix una adreça Rutanio (p.ex. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2077,8 +2077,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter EXOS signature</source>
-        <translation>Introduïu la signatura EXOS</translation>
+        <source>Enter Rutanio signature</source>
+        <translation>Introduïu la signatura Rutanio</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2286,7 +2286,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+3"/>
         <source>Generated tokens must mature 51 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Les monedes generades han de madurar 510 blocs abans per a poder estar disponibles. En generar aquest bloc, que va ser transmès a la xarxa per ser afegit a la cadena de bloc. Si no aconsegueix entrar a la cadena, el seu estat canviarà a &quot;no acceptat&quot; i no es podrà gastar. Això pot succeir de tant en tant si un altre node genera un bloc a pocs segons del seu.</translation>
+        <translation>Les monedes generades han de madurar 500blocs abans per a poder estar disponibles. En generar aquest bloc, que va ser transmès a la xarxa per ser afegit a la cadena de bloc. Si no aconsegueix entrar a la cadena, el seu estat canviarà a &quot;no acceptat&quot; i no es podrà gastar. Això pot succeir de tant en tant si un altre node genera un bloc a pocs segons del seu.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2656,8 +2656,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>EXOS version</source>
-        <translation>versió EXOS</translation>
+        <source>Rutanio version</source>
+        <translation>versió Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2666,8 +2666,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or exosd</source>
-        <translation>Enviar comandes a -server o exosd</translation>
+        <source>Send command to -server or rutaniod</source>
+        <translation>Enviar comandes a -server o rutaniod</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2686,13 +2686,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: exos.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: exos.conf)</translation>
+        <source>Specify configuration file (default: rutanio.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: rutanio.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: exosd.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: exosd.pid)</translation>
+        <source>Specify pid file (default: rutaniod.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: rutaniod.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2709,13 +2709,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=exosrpc
+rpcuser=rutaniorpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2731,8 +2731,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 4562 or testnet: 14562)</source>
-        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 4562 o testnet: 14562)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6782 or testnet: 16782)</source>
+        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 6782 o testnet: 16782)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2821,8 +2821,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EXOS will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni EXOS no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Rutanio will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Rutanio no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3117,7 +3117,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. EXOS is shutting down.</source>
+        <source>Initialization sanity check failed. Rutanio is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3172,13 +3172,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of EXOS</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de EXOS</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Rutanio</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart EXOS to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar EXOS per completar</translation>
+        <source>Wallet needed to be rewritten: restart Rutanio to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Rutanio per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3237,8 +3237,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. EXOS is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. EXOS probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Rutanio is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Rutanio probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3272,7 +3272,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. EXOS is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Rutanio is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

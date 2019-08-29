@@ -1,9 +1,10 @@
 // Copyright (c) 2012-2013 The PPCoin developers
 // Copyright (c) 2014 The Blackcoin developers
 // Copyright (c) 2016 The Stratis developers
-// Copyright (c) 2018 The OpenExO and ExO Economy developers
+// Copyright (c) 2018-2019 Fluid Chains developers and OpenExO developers
+// Copyright (c) 2018-2019 The Rutanio developers
 // Distributed under the MIT/X11 software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
 #include <boost/assign/list_of.hpp>
 
@@ -238,7 +239,7 @@ static bool GetKernelStakeModifier(uint256 hashBlockFrom, uint64_t& nStakeModifi
     return true;
 }
 
-// ppcoin kernel protocol
+// rutanio kernel protocol
 // coinstake must meet hash target according to the protocol:
 // kernel (input 0) must meet the formula
 //     hash(nStakeModifier + txPrev.block.nTime + txPrev.offset + txPrev.nTime + txPrev.vout.n + nTime) < bnTarget * nCoinDayWeight
@@ -318,7 +319,7 @@ static bool CheckStakeKernelHashV1(unsigned int nBits, const CBlock& blockFrom, 
     return true;
 }
 
-// EXOS kernel protocol
+// Rutanio kernel protocol
 // coinstake must meet hash target according to the protocol:
 // kernel (input 0) must meet the formula
 //     hash(nStakeModifier + txPrev.block.nTime + txPrev.nTime + txPrev.vout.hash + txPrev.vout.n + nTime) < bnTarget * nWeight
@@ -438,7 +439,7 @@ bool CheckProofOfStake(CBlockIndex* pindexPrev, const CTransaction& tx, unsigned
     if (IsProtocolV3(tx.nTime))
     {
         int nDepth;
-        if (IsConfirmedInNPrevBlocks(txindex, pindexPrev, GetStakeMinConfirmations(pindexPrev->nHeight + 1) - 1, nDepth))
+        if (IsConfirmedInNPrevBlocks(txindex, pindexPrev, nStakeMinConfirmations - 1, nDepth))
             return tx.DoS(100, error("CheckProofOfStake() : tried to stake at depth %d", nDepth + 1));
     }
     else
@@ -481,7 +482,7 @@ bool CheckKernel(CBlockIndex* pindexPrev, unsigned int nBits, int64_t nTime, con
     if (IsProtocolV3(nTime))
     {
         int nDepth;
-        if (IsConfirmedInNPrevBlocks(txindex, pindexPrev, GetStakeMinConfirmations(pindexPrev->nHeight + 1) - 1, nDepth))
+        if (IsConfirmedInNPrevBlocks(txindex, pindexPrev, nStakeMinConfirmations - 1, nDepth))
             return false;
     }
     else

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About EXOS</source>
-        <translation>Om EXOS</translation>
+        <source>About Rutanio</source>
+        <translation>Om Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;EXOS&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;EXOS&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Rutanio&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Rutanio&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2018-2019 The OpenExO and ExO Economy developers</source>
+Copyright © 2019 The Rutanio developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2018-2019 The OpenExO and ExO Economy developers</translation>
+Copyright © 2019 The Rutanio developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your EXOS addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine EXOS adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your Rutanio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine Rutanio adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a EXOS address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en EXOS adresse</translation>
+        <source>Sign a message to prove you own a Rutanio address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en Rutanio adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified EXOS address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret EXOS adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified Rutanio address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret Rutanio adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>EXOS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>EXOS lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>Rutanio lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about EXOS</source>
-        <translation>Vis oplysninger om EXOS</translation>
+        <source>Show information about Rutanio</source>
+        <translation>Vis oplysninger om Rutanio</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send tokens to a EXOS address</source>
-        <translation>Send mønter til en EXOS adresse</translation>
+        <source>Send tokens to a Rutanio address</source>
+        <translation>Send mønter til en Rutanio adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for EXOS</source>
-        <translation>Ændre indstillingsmuligheder for EXOS</translation>
+        <source>Modify configuration options for Rutanio</source>
+        <translation>Ændre indstillingsmuligheder for Rutanio</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>EXOS</source>
-        <translation>EXOS</translation>
+        <source>Rutanio</source>
+        <translation>Rutanio</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About EXOS</source>
-        <translation>&amp;Om EXOS</translation>
+        <source>&amp;About Rutanio</source>
+        <translation>&amp;Om Rutanio</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>EXOS client</source>
-        <translation>EXOS klient</translation>
+        <source>Rutanio client</source>
+        <translation>Rutanio klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to EXOS network</source>
-        <translation><numerusform>%n aktiv forbindelse til EXOS netværk</numerusform><numerusform>%n aktive forbindelser til EXOS netværk</numerusform></translation>
+        <source>%n active connection(s) to Rutanio network</source>
+        <translation><numerusform>%n aktiv forbindelse til Rutanio netværk</numerusform><numerusform>%n aktive forbindelser til Rutanio netværk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid EXOS address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig EXOS adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Rutanio address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Rutanio adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,7 +723,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. EXOS can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Rutanio can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1057,8 +1057,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid EXOS address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig EXOS adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Rutanio address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Rutanio adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>EXOS-Qt</source>
-        <translation>EXOS-Qt</translation>
+        <source>Rutanio-Qt</source>
+        <translation>Rutanio-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start EXOS after logging in to the system.</source>
-        <translation>Automatisk start EXOS efter at have logget ind på systemet.</translation>
+        <source>Automatically start Rutanio after logging in to the system.</source>
+        <translation>Automatisk start Rutanio efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start EXOS on system login</source>
-        <translation>&amp;Start EXOS ved systems login</translation>
+        <source>&amp;Start Rutanio on system login</source>
+        <translation>&amp;Start Rutanio ved systems login</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the EXOS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne EXOS klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the Rutanio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne Rutanio klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the EXOS network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Rutanio network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting EXOS.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af EXOS tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Rutanio.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af Rutanio tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting EXOS.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af EXOS.</translation>
+        <source>This setting will take effect after restarting Rutanio.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af Rutanio.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EXOS network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med EXOS netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rutanio network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med Rutanio netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start exos: click-to-pay handler</source>
+        <source>Cannot start rutanio: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the EXOS-Qt help message to get a list with possible EXOS command-line options.</source>
-        <translation>Vis EXOS-Qt hjælpe besked for at få en liste med mulige EXOS kommandolinjeparametre.</translation>
+        <source>Show the Rutanio-Qt help message to get a list with possible Rutanio command-line options.</source>
+        <translation>Vis Rutanio-Qt hjælpe besked for at få en liste med mulige Rutanio kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>EXOS - Debug window</source>
-        <translation>EXOS - Debug vindue</translation>
+        <source>Rutanio - Debug window</source>
+        <translation>Rutanio - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>EXOS Core</source>
-        <translation>EXOS Kerne</translation>
+        <source>Rutanio Core</source>
+        <translation>Rutanio Kerne</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the EXOS debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn EXOS debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the Rutanio debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn Rutanio debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the EXOS RPC console.</source>
-        <translation>Velkommen til EXOS RPC-konsol.</translation>
+        <source>Welcome to the Rutanio RPC console.</source>
+        <translation>Velkommen til Rutanio RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Indtast en EXOS-adresse (f.eks CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Indtast en Rutanio-adresse (f.eks RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid EXOS address</source>
-        <translation>ADVARSEL: Ugyldig EXOS adresse</translation>
+        <source>WARNING: Invalid Rutanio address</source>
+        <translation>ADVARSEL: Ugyldig Rutanio adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1926,7 +1926,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
+        <source>The address to send the payment to (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1967,8 +1967,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Indtast en EXOS-adresse (f.eks CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Indtast en Rutanio-adresse (f.eks RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Adresse til at underskrive meddelelsen med (f.eks CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>The address to sign the message with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Adresse til at underskrive meddelelsen med (f.eks RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,8 +2028,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this EXOS address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne EXOS adresse</translation>
+        <source>Sign the message to prove you own this Rutanio address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne Rutanio adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2055,13 +2055,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Adressen meddelelse blev underskrevet med (f.eks CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>The address the message was signed with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Adressen meddelelse blev underskrevet med (f.eks RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified EXOS address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne EXOS adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified Rutanio address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne Rutanio adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Indtast en EXOS-adresse (f.eks CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Indtast en Rutanio-adresse (f.eks RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter EXOS signature</source>
-        <translation>Indtast EXOS underskrift</translation>
+        <source>Enter Rutanio signature</source>
+        <translation>Indtast Rutanio underskrift</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2290,7 +2290,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+3"/>
         <source>Generated tokens must mature 51 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generet mønter skal modne 510 blokke, før de kan blive brugt. Når du genererede denne blok blev det transmitteret til netværket, der tilføjes til blokkæden. Hvis det mislykkes at komme ind i kæden, vil dens tilstand ændres til &quot;ikke godkendt&quot;, og det vil ikke være brugbar. Dette kan lejlighedsvis ske, hvis en anden node genererer en blok et par sekunder efter din.</translation>
+        <translation>Generet mønter skal modne 500blokke, før de kan blive brugt. Når du genererede denne blok blev det transmitteret til netværket, der tilføjes til blokkæden. Hvis det mislykkes at komme ind i kæden, vil dens tilstand ændres til &quot;ikke godkendt&quot;, og det vil ikke være brugbar. Dette kan lejlighedsvis ske, hvis en anden node genererer en blok et par sekunder efter din.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2660,8 +2660,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>EXOS version</source>
-        <translation>EXOS version</translation>
+        <source>Rutanio version</source>
+        <translation>Rutanio version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or exosd</source>
-        <translation>Send kommando til-server eller exosd</translation>
+        <source>Send command to -server or rutaniod</source>
+        <translation>Send kommando til-server eller rutaniod</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: exos.conf)</source>
-        <translation>Angiv konfigurationsfil (default: exos.conf)</translation>
+        <source>Specify configuration file (default: rutanio.conf)</source>
+        <translation>Angiv konfigurationsfil (default: rutanio.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: exosd.pid)</source>
-        <translation>Angiv pid fil (standard: exosd.pid)</translation>
+        <source>Specify pid file (default: rutaniod.pid)</source>
+        <translation>Angiv pid fil (standard: rutaniod.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=exosrpc
+rpcuser=rutaniorpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2735,8 +2735,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 4562 or testnet: 14562)</source>
-        <translation>Lyt efter forbindelser på &lt;port&gt; (default: 4562 eller Testnet: 14562)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6782 or testnet: 16782)</source>
+        <translation>Lyt efter forbindelser på &lt;port&gt; (default: 6782 eller Testnet: 16782)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EXOS will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil EXOS ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Rutanio will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil Rutanio ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. EXOS is shutting down.</source>
+        <source>Initialization sanity check failed. Rutanio is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of EXOS</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af EXOS</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Rutanio</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart EXOS to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart EXOS for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart Rutanio to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart Rutanio for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. EXOS is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. EXOS kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. Rutanio is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. Rutanio kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. EXOS is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Rutanio is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

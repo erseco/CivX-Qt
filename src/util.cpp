@@ -918,7 +918,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "exos";
+    const char* pszModule = "rutanio";
 #endif
     if (pex)
         return strprintf(
@@ -948,13 +948,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\EXOS
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\EXOS
-    // Mac: ~/Library/Application Support/EXOS
-    // Unix: ~/.exos
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Rutanio
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Rutanio
+    // Mac: ~/Library/Application Support/Rutanio
+    // Unix: ~/.rutanio
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "EXOS";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Rutanio";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -966,10 +966,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "EXOS";
+    return pathRet / "Rutanio";
 #else
     // Unix
-    return pathRet / ".exos";
+    return pathRet / ".rutanio";
 #endif
 #endif
 }
@@ -1018,7 +1018,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "exos.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "rutanio.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1051,7 +1051,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "exosd.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "rutaniod.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

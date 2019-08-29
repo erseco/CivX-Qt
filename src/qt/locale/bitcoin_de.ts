@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About EXOS</source>
-        <translation>Über EXOS</translation>
+        <source>About Rutanio</source>
+        <translation>Über Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;EXOS&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;EXOS&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;Rutanio&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Rutanio&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2018-2019 The OpenExO and ExO Economy developers</source>
+Copyright © 2019 The Rutanio developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your EXOS addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre EXOS Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
+        <source>These are your Rutanio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre Rutanio Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -78,8 +78,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a EXOS address</source>
-        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine EXOS Adresse besitzen</translation>
+        <source>Sign a message to prove you own a Rutanio address</source>
+        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine Rutanio Adresse besitzen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified EXOS address</source>
-        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten EXOS Adresse signiert wurde</translation>
+        <source>Verify a message to ensure it was signed with a specified Rutanio address</source>
+        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten Rutanio Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+82"/>
-        <source>EXOS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>EXOS wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
+        <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>Rutanio wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -355,8 +355,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about EXOS</source>
-        <translation>Informationen über EXOS anzeigen</translation>
+        <source>Show information about Rutanio</source>
+        <translation>Informationen über Rutanio anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -395,13 +395,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-55"/>
-        <source>Send tokens to a EXOS address</source>
-        <translation>Senden Sie Coins an eine EXOS Adresse</translation>
+        <source>Send tokens to a Rutanio address</source>
+        <translation>Senden Sie Coins an eine Rutanio Adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for EXOS</source>
-        <translation>Konfigurationsoptionen für EXOS ändern</translation>
+        <source>Modify configuration options for Rutanio</source>
+        <translation>Konfigurationsoptionen für Rutanio ändern</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -441,8 +441,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>EXOS</source>
-        <translation>EXOS</translation>
+        <source>Rutanio</source>
+        <translation>Rutanio</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -451,8 +451,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About EXOS</source>
-        <translation>&amp;Über EXOS</translation>
+        <source>&amp;About Rutanio</source>
+        <translation>&amp;Über Rutanio</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,13 +503,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>EXOS client</source>
-        <translation>EXOS Anwendung</translation>
+        <source>Rutanio client</source>
+        <translation>Rutanio Anwendung</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to EXOS network</source>
-        <translation><numerusform>%n aktive Verbindung zum EXOS Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum EXOS Netzwerk</numerusform></translation>
+        <source>%n active connection(s) to Rutanio network</source>
+        <translation><numerusform>%n aktive Verbindung zum Rutanio Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum Rutanio Netzwerk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -602,8 +602,8 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid EXOS address or malformed URI parameters.</source>
-        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige EXOS Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Rutanio address or malformed URI parameters.</source>
+        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige Rutanio Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -726,8 +726,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. EXOS can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler ist aufgetreten. EXOS kann nicht fortgesetzt werden und wird beendet.</translation>
+        <source>A fatal error occurred. Rutanio can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler ist aufgetreten. Rutanio kann nicht fortgesetzt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -1046,8 +1046,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid EXOS address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige EXOS Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Rutanio address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Rutanio Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1065,8 +1065,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>EXOS-Qt</source>
-        <translation>EXOS-Qt
+        <source>Rutanio-Qt</source>
+        <translation>Rutanio-Qt
 </translation>
     </message>
     <message>
@@ -1139,13 +1139,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start EXOS after logging in to the system.</source>
-        <translation>Automatisch EXOS starten beim Einloggen in das System.</translation>
+        <source>Automatically start Rutanio after logging in to the system.</source>
+        <translation>Automatisch Rutanio starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start EXOS on system login</source>
-        <translation>&amp;Starte EXOS bei Systemstart</translation>
+        <source>&amp;Start Rutanio on system login</source>
+        <translation>&amp;Starte Rutanio bei Systemstart</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1154,8 +1154,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the EXOS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den EXOS client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the Rutanio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den Rutanio client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1184,7 +1184,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the EXOS network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Rutanio network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1229,7 +1229,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting EXOS.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Rutanio.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1240,7 +1240,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von EXOSs angezeigt werden soll.</translation>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Rutanios angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1265,7 +1265,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Use black visual theme (requires restart)</source>
-        <translation>Verwende das schwarze EXOS Wallet Design (Neustart erforderlich)</translation>
+        <translation>Verwende das schwarze Rutanio Wallet Design (Neustart erforderlich)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1296,7 +1296,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting EXOS.</source>
+        <source>This setting will take effect after restarting Rutanio.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EXOS network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem EXOS Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rutanio network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Rutanio Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1389,7 +1389,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start exos: click-to-pay handler</source>
+        <source>Cannot start rutanio: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1557,7 +1557,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the EXOS-Qt help message to get a list with possible EXOS command-line options.</source>
+        <source>Show the Rutanio-Qt help message to get a list with possible Rutanio command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1577,13 +1577,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>EXOS - Debug window</source>
-        <translation>EXOS - Debug Fenster</translation>
+        <source>Rutanio - Debug window</source>
+        <translation>Rutanio - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>EXOS Core</source>
-        <translation>EXOS Kern</translation>
+        <source>Rutanio Core</source>
+        <translation>Rutanio Kern</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1592,8 +1592,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the EXOS debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Offne die EXOS Fehlerlogs aus dem Datenverzeichnis. Diese Funktion kann bei größeren Log-Files länger benötigen.</translation>
+        <source>Open the Rutanio debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Offne die Rutanio Fehlerlogs aus dem Datenverzeichnis. Diese Funktion kann bei größeren Log-Files länger benötigen.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1602,8 +1602,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the EXOS RPC console.</source>
-        <translation>Willkommen zur EXOS RPC Anwendung.</translation>
+        <source>Welcome to the Rutanio RPC console.</source>
+        <translation>Willkommen zur Rutanio RPC Anwendung.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1784,8 +1784,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Empfängeradresse (z.b. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Empfängeradresse (z.b. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1884,8 +1884,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid EXOS address</source>
-        <translation>Warnung: Ungültige EXOS Adresse</translation>
+        <source>WARNING: Invalid Rutanio address</source>
+        <translation>Warnung: Ungültige Rutanio Adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1917,7 +1917,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
+        <source>The address to send the payment to (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1958,8 +1958,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Empfängeradresse (z.b. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Empfängeradresse (z.b. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
 </context>
 <context>
@@ -1982,7 +1982,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
+        <source>The address to sign the message with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2019,8 +2019,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this EXOS address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser EXOS Adresse bist.</translation>
+        <source>Sign the message to prove you own this Rutanio address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Rutanio Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2046,12 +2046,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
+        <source>The address the message was signed with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified EXOS address</source>
+        <source>Verify the message to ensure it was signed with the specified Rutanio address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2062,8 +2062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a EXOS address (e.g. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</source>
-        <translation>Empfängeradresse (z.b. CVX62eYNnJaTHEQLf5E4hbSX1D9x6UKiYd)</translation>
+        <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
+        <translation>Empfängeradresse (z.b. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2072,8 +2072,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter EXOS signature</source>
-        <translation>EXOS Signatur eingeben</translation>
+        <source>Enter Rutanio signature</source>
+        <translation>Rutanio Signatur eingeben</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2281,7 +2281,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Generated tokens must mature 51 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generierte Coins müssen 510 Bestätigungen erhalten bevor sie verfügbar sind. Dieser Block wurde ans Netzwerk gesendet und der Blockkette angehängt als der Block generiert wurde. Wenn er der Blockkette nicht erfolgreich angehängt werden konnte, wird er den Status in &quot;nicht Akzeptiert&quot; ändern und wird nicht verfügbar sein. Das kann zufällig geschehen wenn eine andere Leitung den Block innerhalb von ein paar Sekunden generiert.</translation>
+        <translation>Generierte Coins müssen 500Bestätigungen erhalten bevor sie verfügbar sind. Dieser Block wurde ans Netzwerk gesendet und der Blockkette angehängt als der Block generiert wurde. Wenn er der Blockkette nicht erfolgreich angehängt werden konnte, wird er den Status in &quot;nicht Akzeptiert&quot; ändern und wird nicht verfügbar sein. Das kann zufällig geschehen wenn eine andere Leitung den Block innerhalb von ein paar Sekunden generiert.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2651,8 +2651,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>EXOS version</source>
-        <translation>EXOS Version</translation>
+        <source>Rutanio version</source>
+        <translation>Rutanio Version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,8 +2661,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or exosd</source>
-        <translation>Kommando versenden an -server oder exosd </translation>
+        <source>Send command to -server or rutaniod</source>
+        <translation>Kommando versenden an -server oder rutaniod </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2681,13 +2681,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: exos.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: exos.conf)</translation>
+        <source>Specify configuration file (default: rutanio.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: rutanio.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: exosd.pid)</source>
-        <translation>PID Datei angeben (Standard: exos.pid)</translation>
+        <source>Specify pid file (default: rutaniod.pid)</source>
+        <translation>PID Datei angeben (Standard: rutanio.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2704,13 +2704,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=exosrpc
+rpcuser=rutaniorpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2726,8 +2726,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 4562 or testnet: 14562)</source>
-        <translation>Horche für verbindungen auf &lt;Port&gt; (Standard: 4562 oder Testnetz: 14562)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6782 or testnet: 16782)</source>
+        <translation>Horche für verbindungen auf &lt;Port&gt; (Standard: 6782 oder Testnetz: 16782)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,8 +2816,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EXOS will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird EXOS nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Rutanio will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird Rutanio nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3111,7 +3111,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. EXOS is shutting down.</source>
+        <source>Initialization sanity check failed. Rutanio is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3166,13 +3166,13 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of EXOS</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der EXOS Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Rutanio</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Rutanio Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart EXOS to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die EXOS Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart Rutanio to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die Rutanio Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3231,7 +3231,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. EXOS is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Rutanio is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
@@ -3266,7 +3266,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EXOS Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. EXOS is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Rutanio is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
