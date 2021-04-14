@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=EXOS-Qt
+Comment=EXOS Staking Wallet
+Exec=AppRun %F
+Type=Application
+Icon=exos
+MimeType=x-scheme-handler/exos;
+Categories=Finance;Network;
+Name[en_US]=exos-qt.desktop
